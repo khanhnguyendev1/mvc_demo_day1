@@ -1,0 +1,11 @@
+mvc\controller\UserController.class
+mvc\controller\HelloController.class
+mvc\repository\BookRepository.class
+mvc\configuration\JPAConfig.class
+mvc\formregistration\User.class
+mvc\formregistration\Gender.class
+mvc\entity\BookDetailsEntity.class
+mvc\main\main.class
+mvc\entity\CategoryEntity.class
+mvc\repository\CategoryRepository.class
+mvc\entity\BookEntity.class

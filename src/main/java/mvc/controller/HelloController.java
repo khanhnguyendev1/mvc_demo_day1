@@ -12,10 +12,10 @@ import java.util.List;
 @Controller
 public class HelloController {
 
-	@RequestMapping("/")
-	public String index() {
-			return "index";
-	}
+//	@RequestMapping("/")
+//	public String index() {
+//			return "index";
+//	}
 
 	@RequestMapping(value = "/hello", method = RequestMethod.GET)
 	public String greeting(@RequestParam(name = "person") String person,
